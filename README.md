@@ -7,12 +7,11 @@
 
 
 
-
-Full-stack developer working with React, JavaScript, Python and Flask.
+Working with React, JavaScript, Python and Flask.
 Background in motion graphics, 3D animation and audiovisual post-production, with experience creating visual content for television and digital media.
 
 Currently interested in building web applications, creative tools and visual platforms, combining software development with visual design and motion.
-
+.
 
 <!--
 **Sebaperez12/Sebaperez12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
