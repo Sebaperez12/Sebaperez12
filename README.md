@@ -4,7 +4,7 @@
 
 [![web](https://img.shields.io/badge/Web-%23000000.svg?style=for-the-badge&logo=Web&logoColor=white)](https://www.sebaperez.tv)
 [![Instagram](https://img.shields.io/badge/Instagram-543DE0.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/seboperez/)
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sebastián-pérez-motion-developer)
 
 
 Working with React, JavaScript, Python and Flask.
